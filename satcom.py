@@ -10,11 +10,7 @@ import sys
 import sys
 import time
 from datetime import datetime
-import csv
-# END IMPORT
-
 
 init(autoreset=True)
-
 __author__ = "-- Satcom --"
 version = "0.0.1"
